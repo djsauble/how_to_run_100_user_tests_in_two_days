@@ -1,0 +1,22 @@
+.slide {
+  background-color: black;
+}
+
+.content {
+  color: white;
+  font-family: "Gill Sans" "Helvetica"
+}
+
+a {
+  text-decoration: none;
+  color: #4A90E2;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 1em;
+  margin-right: 1em;
+  text-align: center;
+}

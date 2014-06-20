@@ -1,1 +1,12 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "How to run 100 user tests in two days", 
+  "description": "An Open Source Bridge talk by Daniel Sauble",
+  "templates" : {
+    "default" : "templates/default.tpl",
+    "title"   : "templates/title.tpl",
+    "section" : "templates/section.tpl"
+  },
+  "sections": [ 
+    {"section":"one"} 
+  ]
+}
