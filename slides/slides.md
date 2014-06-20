@@ -4,6 +4,9 @@
 
 Daniel Sauble, UX designer at Puppet Labs
 
+!SLIDE center
+![Showoff](01_how_to_use_showoff.png)
+
 !SLIDE[tpl=section]
 
 # A little background #

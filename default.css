@@ -20,3 +20,16 @@ a {
   margin-right: 1em;
   text-align: center;
 }
+
+.center {
+  margin-top: 0 !important;
+}
+
+.center p {
+  margin: 0;
+}
+
+.center img {
+  max-height: 100%;
+  max-width: 100%;
+}
