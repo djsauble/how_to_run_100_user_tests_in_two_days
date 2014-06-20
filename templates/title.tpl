@@ -1,2 +1,2 @@
 ~~~CONTENT~~~
-<div class="footer"><span>Follow along at <a href="http://hundred-tests.herokuapp.com">hundred-tests.herokuapp.com</a></span></div>
+<div class="footer"><span>Follow along at <a href="http://100in2.danielsauble.com">100in2.danielsauble.com</a></span></div>

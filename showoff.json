@@ -7,7 +7,7 @@
     "section" : "templates/section.tpl"
   },
   "sections": [ 
-    {"section":"one"} 
+    {"section":"slides"} 
   ],
   "feedback": true
 }
