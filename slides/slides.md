@@ -5,7 +5,8 @@
 Daniel Sauble, UX designer at Puppet Labs
 
 !SLIDE center
-![Showoff](01_how_to_use_showoff.png)
+
+![Showoff](showoff.png)
 
 !SLIDE[tpl=section]
 
@@ -15,21 +16,61 @@ Daniel Sauble, UX designer at Puppet Labs
 
 ## :waves: ##
 
+!SLIDE center
+
+![Me](me.png)
+
+!SLIDE center
+
+![My activities](my_activities.png)
+
 !SLIDE
 
 ## My work ##
+
+!SLIDE center
+
+![Server](server.png)
+
+!SLIDE center
+
+![Sysadmin](sysadmin.png)
+
+!SLIDE center
+
+![Sysadmin team](sysadmins.png)
+
+!SLIDE center
+
+![Code](code.png)
+
+!SLIDE center
+
+![DevOps](devops.png)
+
+!SLIDE center
+
+![DevOps sysadmin](devops_sysadmin.png)
 
 !SLIDE
 
 ## Our research ##
 
-!SLIDE
+!SLIDE center
 
-## User tests ##
+![No time](no_time.png)
 
-!SLIDE
+!SLIDE center
 
-## Lots of user tests ##
+![PTP process](ptp_process.png)
+
+!SLIDE center
+
+![User tests](user_tests.png)
+
+!SLIDE center
+
+![Lots of user tests](lots_of_user_tests.png)
 
 !SLIDE[tpl=section]
 
