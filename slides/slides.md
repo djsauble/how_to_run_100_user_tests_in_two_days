@@ -76,6 +76,10 @@ Daniel Sauble, UX designer at Puppet Labs
 
 # What we did #
 
+!SLIDE center
+
+![2012 vs 2013](2012_vs_2013.png)
+
 !SLIDE
 
 ## Place ##
@@ -192,6 +196,14 @@ Daniel Sauble, UX designer at Puppet Labs
 
 ![Unattended](unattended.png)
 
+!SLIDE
+
+* Don&#8217;t ignore your product roadmap
+* Don&#8217;t write every study yourself
+* Don&#8217;t pick a booth in the busiest hallway
+* Don&#8217;t skip on-the-spot analysis
+* Don&#8217;t assume your data is safe
+
 !SLIDE[tpl=section]
 
 # Tips for success #
@@ -200,21 +212,49 @@ Daniel Sauble, UX designer at Puppet Labs
 
 ## Find a diverse audience ##
 
+!SLIDE center
+
+![Diversity](diversity.png)
+
 !SLIDE
 
 ## Train early and often ##
+
+!SLIDE center
+
+![Training](training.png)
 
 !SLIDE
 
 ## Keep things digital ##
 
+!SLIDE center
+
+![Digital](digital.png)
+
 !SLIDE
 
 ## Consider self-guided tests ##
 
+!SLIDE center
+
+![Self-guided tests](self_guided.png)
+
 !SLIDE
 
 ## Hold a retrospective ##
+
+!SLIDE center
+
+![Retrospective](retrospective.png)
+
+!SLIDE
+
+* Find a diverse audience
+* Train early and often
+* Keep things digital
+* Consider self-guided tests
+* Hold a retrospective
 
 !SLIDE
 
