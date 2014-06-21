@@ -80,25 +80,49 @@ Daniel Sauble, UX designer at Puppet Labs
 
 ## Place ##
 
+!SLIDE center
+
+![Venues](place.png)
+
 !SLIDE
 
 ## Booth ##
+
+!SLIDE center
+
+![Booth](booth.png)
 
 !SLIDE
 
 ## Process ##
 
+!SLIDE center
+
+![Testing process](process.png)
+
 !SLIDE
 
 ## Equipment ##
+
+!SLIDE center
+
+![Testing equipment](equipment.png)
 
 !SLIDE
 
 ## Tests ##
 
+!SLIDE center
+
+![Testing results](tests.png)
+
 !SLIDE
 
 ## People ##
+
+!SLIDE center
+
+![People who made it happen](people.png)
 
 !SLIDE[tpl=section]
 
@@ -108,21 +132,65 @@ Daniel Sauble, UX designer at Puppet Labs
 
 ## Don&#8217;t ignore your product roadmap ##
 
+!SLIDE center
+
+![Roadmap](roadmap.png)
+
+!SLIDE center
+
+![Discovery](discovery.png)
+
+!SLIDE center
+
+![Definition](definition.png)
+
+!SLIDE center
+
+![Design](design.png)
+
+!SLIDE center
+
+![Build](build.png)
+
+!SLIDE center
+
+![Test](test.png)
+
 !SLIDE
 
 ## Don&#8217;t write every study yourself ##
+
+!SLIDE center
+
+![Solo author](solo_authoring.png)
 
 !SLIDE
 
 ## Don&#8217;t pick a booth in the busiest hallway ##
 
+!SLIDE center
+
+![Busy booth](busy_booth.png)
+
 !SLIDE
 
 ## Don&#8217;t skip on-the-spot analysis ##
 
+!SLIDE center
+
+![Analysis](analysis.png)
+
+!SLIDE center
+
+![Analysis](now_vs_later.png)
+
 !SLIDE
 
-## Don&#8217;t leave your laptops unattended ##
+## Don&#8217;t assume your data is safe ##
+
+!SLIDE center
+
+![Unattended](unattended.png)
 
 !SLIDE[tpl=section]
 
